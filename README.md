@@ -1,4 +1,7 @@
 # Terraform Guides
+
+- Help References - https://medium.com/oracledevs/lessons-learned-when-upgrading-to-terraform-0-12-6d894d3ab20e
+
 This repository contains sample Terraform configurations, Sentinel policies, and automation scripts that can be used with Terraform Enterprise.
 
 ## infrastructure-as-code
